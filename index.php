@@ -15,7 +15,7 @@ $app = require __DIR__.'/bootstrap/app.php';
 
 /*
 |--------------------------------------------------------------------------
-| Run The Application
+| Run The Applicationsss
 |--------------------------------------------------------------------------
 |
 | Once we have the application, we can handle the incoming request
